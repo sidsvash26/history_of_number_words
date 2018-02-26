@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Parameter_ID,Parameter_name,Value,Source,Comment
+PROTO_IROQUOIAN-19-1,PROTO_IROQUOIAN,Proto Iroquoian,19,fish,cjo*t,,
+PROTO_IROQUOIAN-21-1,PROTO_IROQUOIAN,Proto Iroquoian,21,dog,kir,,
+PROTO_IROQUOIAN-25-1,PROTO_IROQUOIAN,Proto Iroquoian,25,leaf,onj,,
+PROTO_IROQUOIAN-41-1,PROTO_IROQUOIAN,Proto Iroquoian,41,nose,7njo*hs,,
+PROTO_IROQUOIAN-51-1,PROTO_IROQUOIAN,Proto Iroquoian,51,breast,no*t,,
+PROTO_IROQUOIAN-57-1,PROTO_IROQUOIAN,Proto Iroquoian,57,see,ke*,,
+PROTO_IROQUOIAN-57-2,PROTO_IROQUOIAN,Proto Iroquoian,57,see,ke*h,,
+PROTO_IROQUOIAN-58-1,PROTO_IROQUOIAN,Proto Iroquoian,58,hear,atho*,,
+PROTO_IROQUOIAN-75-1,PROTO_IROQUOIAN,Proto Iroquoian,75,water,awe*7,,
+PROTO_IROQUOIAN-77-1,PROTO_IROQUOIAN,Proto Iroquoian,77,stone,ne*j,,
+PROTO_IROQUOIAN-82-1,PROTO_IROQUOIAN,Proto Iroquoian,82,fire,cir,,
+PROTO_IROQUOIAN-92-1,PROTO_IROQUOIAN,Proto Iroquoian,92,night,ahco*h,,

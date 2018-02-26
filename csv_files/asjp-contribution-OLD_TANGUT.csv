@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Parameter_ID,Parameter_name,Value,Source,Comment
+OLD_TANGUT-11-1,OLD_TANGUT,Old Tangut,11,one,hgy~i,,
+OLD_TANGUT-12-1,OLD_TANGUT,Old Tangut,12,two,gnih,,
+OLD_TANGUT-18-1,OLD_TANGUT,Old Tangut,18,person,hdzo,,
+OLD_TANGUT-23-1,OLD_TANGUT,Old Tangut,23,tree,zi,,
+OLD_TANGUT-40-1,OLD_TANGUT,Old Tangut,40,eye,dmi,,
+OLD_TANGUT-40-2,OLD_TANGUT,Old Tangut,40,eye,dmih,,
+OLD_TANGUT-72-1,OLD_TANGUT,Old Tangut,72,sun,ni,,
+OLD_TANGUT-75-1,OLD_TANGUT,Old Tangut,75,water,gzi,,
+OLD_TANGUT-82-1,OLD_TANGUT,Old Tangut,82,fire,dmu,,
